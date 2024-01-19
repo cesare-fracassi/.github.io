@@ -2,13 +2,13 @@
   - firstname: ["G.", "Geoffrey"]
     url: https://www.rhsmith.umd.edu/directory/geoffrey-tate
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Ahern":
+  - firstname: ["Kenneth", "K."]
+    url: http://www-bcf.usc.edu/~kahern/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Garmaise":
+  - firstname: ["M.", "M. J.", "Mark"]
+    url: http://www.anderson.ucla.edu/faculty/finance/faculty/garmaise
 
 "bach":
   - firstname: ["Johann Sebastian", "J. S."]
